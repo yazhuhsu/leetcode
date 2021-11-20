@@ -3,6 +3,7 @@
 ## Algorithm
 
 - [#1. Two Sum](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/two_sum)
+- [#2. Add Two Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/add_two_numbers)
 - [#7. Reverse Integer](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/reverse_integer)
 - [#9. Palindrome Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/palindrome_number)
 - [#13. Roman to Integer](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/roman_to_integer)
@@ -20,6 +21,6 @@
 
 - [#175. Combine Two Tables](https://github.com/yazhuhsu/leetcode/blob/develop/database/combine_two_tables.sql)
 - [#176. Second Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/second_highest_salary.sql)
-- [181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/employees_earning_more_than_their_managers.sql)
-- [182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/duplicate_emails.sql)
-- [183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/customers_who_never_order.sql)
+- [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/employees_earning_more_than_their_managers.sql)
+- [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/duplicate_emails.sql)
+- [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/customers_who_never_order.sql)
