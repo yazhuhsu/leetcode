@@ -24,6 +24,10 @@
 - [#168. Excel Sheet Column Title](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/excel_sheet_column_title)
 - [#169. Majority Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/majority_element)
 - [#171. Excel Sheet Column Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/excel_sheet_column_number)
+- [#190. Reverse Bits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/reverse_bits)
+- [#205. Isomorphic Strings](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/isomorphic_strings)
+- [#217. Contains Duplicate](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/contains_duplicate)
+- [#219. Contains.Duplicate II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/contains_duplicate_II)
 
 ## Database
 
