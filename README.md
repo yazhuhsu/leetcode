@@ -42,6 +42,12 @@
 - [#228. Summary Ranges](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/summary_ranges)
 - [#231. Power of Two](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_two)
 - [#242. Valid Anagram](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/valid_anagram)
+- [#258. Add Digits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/add_digits)
+- [#263. Ugly Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/ugly_number)
+- [#268. Missing Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/missing_number)
+- [#290. Word Pattern](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/word_pattern)
+- [#326. Power of Three](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_three)
+- [#342. Power of Four](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_four)
 
 ## Database
 
