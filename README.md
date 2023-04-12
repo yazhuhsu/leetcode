@@ -48,6 +48,9 @@
 - [#290. Word Pattern](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/word_pattern)
 - [#326. Power of Three](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_three)
 - [#342. Power of Four](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_four)
+- [#345. Reverse Vowels of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_vowels_of_a_string)
+- [#349. Intersection of Two Arrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/intersection_of_two_arrays)
+- [#350. Intersection of Two Arrays II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/intersection_of_two_arrays_II)
 
 ## Database
 
