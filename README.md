@@ -51,6 +51,7 @@
 - [#345. Reverse Vowels of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_vowels_of_a_string)
 - [#349. Intersection of Two Arrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/intersection_of_two_arrays)
 - [#350. Intersection of Two Arrays II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/intersection_of_two_arrays_II)
+- [#374. Guess Number Higher or Lower](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/guess_number_higher_or_lower)
 
 ## Database
 
