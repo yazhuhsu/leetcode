@@ -56,8 +56,9 @@
 
 ## Database
 
-- [#175. Combine Two Tables](https://github.com/yazhuhsu/leetcode/blob/develop/database/combine_two_tables.sql)
-- [#176. Second Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/second_highest_salary.sql)
-- [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/employees_earning_more_than_their_managers.sql)
-- [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/duplicate_emails.sql)
-- [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/customers_who_never_order.sql)
+- [#175. Combine Two Tables](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/combine_two_tables.sql)
+- [#176. Second Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/second_highest_salary.sql)
+- [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employees_earning_more_than_their_managers.sql)
+- [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/duplicate_emails.sql)
+- [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customers_who_never_order.sql)
+- [#196. Delete Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/delete_duplicate_emails.sql)
