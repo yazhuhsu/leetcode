@@ -45,6 +45,7 @@
 - [#258. Add Digits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/add_digits)
 - [#263. Ugly Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/ugly_number)
 - [#268. Missing Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/missing_number)
+- [#283. Move Zeros]()(https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/move_zeros)
 - [#290. Word Pattern](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/word_pattern)
 - [#326. Power of Three](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_three)
 - [#342. Power of Four](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_four)
@@ -54,11 +55,14 @@
 - [#374. Guess Number Higher or Lower](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/guess_number_higher_or_lower)
 - [#383. Ransom Note](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/ransom_note)
 - [#387. First Unique Character in a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/first_unique_character_in_a_string)
+- [#389. Find The Difference](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_the_difference)
 
 ## Database
 
-- [#175. Combine Two Tables](https://github.com/yazhuhsu/leetcode/blob/develop/database/combine_two_tables.sql)
-- [#176. Second Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/second_highest_salary.sql)
-- [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/employees_earning_more_than_their_managers.sql)
-- [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/duplicate_emails.sql)
-- [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/customers_who_never_order.sql)
+- [#175. Combine Two Tables](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/combine_two_tables.sql)
+- [#176. Second Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/second_highest_salary.sql)
+- [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employees_earning_more_than_their_managers.sql)
+- [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/duplicate_emails.sql)
+- [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customers_who_never_order.sql)
+- [#196. Delete Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/delete_duplicate_emails.sql)
+- [#197. Rising Temperature](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/rising_temperature.sql)
