@@ -53,6 +53,8 @@
 - [#349. Intersection of Two Arrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/intersection_of_two_arrays)
 - [#350. Intersection of Two Arrays II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/intersection_of_two_arrays_II)
 - [#374. Guess Number Higher or Lower](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/guess_number_higher_or_lower)
+- [#383. Ransom Note](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/ransom_note)
+- [#387. First Unique Character in a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/first_unique_character_in_a_string)
 - [#389. Find The Difference](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_the_difference)
 
 ## Database
