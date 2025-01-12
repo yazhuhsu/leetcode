@@ -45,7 +45,7 @@
 - [#258. Add Digits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/add_digits)
 - [#263. Ugly Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/ugly_number)
 - [#268. Missing Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/missing_number)
-- [#283. Move Zeros]()(https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/move_zeros)
+- [#283. Move Zeros](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/move_zeros)
 - [#290. Word Pattern](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/word_pattern)
 - [#326. Power of Three](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_three)
 - [#342. Power of Four](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_four)
