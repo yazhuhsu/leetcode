@@ -68,3 +68,4 @@
 - [#197. Rising Temperature](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/rising_temperature.sql)
 - [#577. Employee Bonus](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employee_bonus.sql)
 - [#584. Find Customer Referee](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/find_customer_referee.sql)
+- [#586. Customer Placing the Largest Number of Orders](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customer_placing_the_largest_number_of_orders.sql)
