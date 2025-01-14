@@ -67,3 +67,4 @@
 - [#196. Delete Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/delete_duplicate_emails.sql)
 - [#197. Rising Temperature](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/rising_temperature.sql)
 - [#577. Employee Bonus](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employee_bonus.sql)
+- [#584. Find Customer Referee](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/find_customer_referee.sql)
