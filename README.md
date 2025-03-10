@@ -56,6 +56,7 @@
 - [#383. Ransom Note](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/ransom_note)
 - [#387. First Unique Character in a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/first_unique_character_in_a_string)
 - [#389. Find The Difference](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_the_difference)
+- [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 
 ## Database
 
@@ -66,6 +67,7 @@
 - [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customers_who_never_order.sql)
 - [#196. Delete Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/delete_duplicate_emails.sql)
 - [#197. Rising Temperature](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/rising_temperature.sql)
+- [#511. Game Play Analysis I](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/game_play_analysis_i.sql)
 - [#577. Employee Bonus](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employee_bonus.sql)
 - [#584. Find Customer Referee](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/find_customer_referee.sql)
 - [#586. Customer Placing the Largest Number of Orders](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customer_placing_the_largest_number_of_orders.sql)
