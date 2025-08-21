@@ -59,6 +59,7 @@
 - [#392. Is Subsequence](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/is_subsequence)
 - [#409. Longest Palindrome](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/longest_palindrome)
 - [#412. Fizz Buzz](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/fizz_buzz)
+- [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 
 ## Database
