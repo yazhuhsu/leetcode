@@ -1,20 +1,17 @@
 package main
 
-// 18:10-18:29
-
 import "fmt"
 
 func minimumArea(grid [][]int) int {
-
-	top, bottom, left, right := -1, -1, -1, -1
+	top, down, left, right := -1, -1, -1, -1
 	for row := 0; row < len(grid); row++ {
 		for column := 0; column < len(grid[0]); column++ {
 			if top == -1 && grid[row][column] == 1 {
 				top = row
 			}
 
-			if bottom == -1 && grid[len(grid)-row-1][len(grid[0])-column-1] == 1 {
-				bottom = len(grid) - row - 1
+			if down == -1 && grid[len(grid)-row-1][len(grid[0])-column-1] == 1 {
+				down = len(grid) - row - 1
 			}
 		}
 	}
@@ -31,7 +28,7 @@ func minimumArea(grid [][]int) int {
 		}
 	}
 
-	w, h := right-left+1, bottom-top+1
+	w, h := right-left+1, down-top+1
 
 	return w * h
 }
