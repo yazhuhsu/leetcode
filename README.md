@@ -60,7 +60,7 @@
 - [#409. Longest Palindrome](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/longest_palindrome)
 - [#412. Fizz Buzz](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/fizz_buzz)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
-- [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
+- [#1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
 - [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 - [#3195. Find the Minimum Area to Cover All Ones I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/find_the_minimum_area_to_cover_all_ones_I)
@@ -69,6 +69,7 @@
 
 - [#175. Combine Two Tables](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/combine_two_tables.sql)
 - [#176. Second Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/second_highest_salary.sql)
+- [#177. Nth Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/medium/nth_highest_salary)
 - [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employees_earning_more_than_their_managers.sql)
 - [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/duplicate_emails.sql)
 - [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customers_who_never_order.sql)
