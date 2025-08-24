@@ -60,6 +60,7 @@
 - [#409. Longest Palindrome](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/longest_palindrome)
 - [#412. Fizz Buzz](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/fizz_buzz)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
+- [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
 - [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 - [#3195. Find the Minimum Area to Cover All Ones I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/find_the_minimum_area_to_cover_all_ones_I)
