@@ -69,6 +69,7 @@
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 - [#3195. Find the Minimum Area to Cover All Ones I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/find_the_minimum_area_to_cover_all_ones_I)
 - [#3516. Find Closest Person](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_closest_person)
+- [# 3541. Find Most Frequent Vowel and Consonant](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_most_frequent_vowel_and_consonant)
 
 ## Database
 
