@@ -69,7 +69,7 @@
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 - [#3195. Find the Minimum Area to Cover All Ones I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/find_the_minimum_area_to_cover_all_ones_I)
 - [#3516. Find Closest Person](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_closest_person)
-- [# 3541. Find Most Frequent Vowel and Consonant](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_most_frequent_vowel_and_consonant)
+- [#3541. Find Most Frequent Vowel and Consonant](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_most_frequent_vowel_and_consonant)
 
 ## Database
 
@@ -80,6 +80,7 @@
 - [#181. Employees Earning More Than Their Managers](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/employees_earning_more_than_their_managers.sql)
 - [#182. Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/duplicate_emails.sql)
 - [#183. Customers Who Never Order](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customers_who_never_order.sql)
+- [#184. Department Highest Salary](https://github.com/yazhuhsu/leetcode/blob/develop/database/medium/department_highest_salary)
 - [#196. Delete Duplicate Emails](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/delete_duplicate_emails.sql)
 - [#197. Rising Temperature](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/rising_temperature.sql)
 - [#511. Game Play Analysis I](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/game_play_analysis_i.sql)
