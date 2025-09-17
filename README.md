@@ -63,6 +63,7 @@
 - [#1304. Find N Unique Integers Sum up to Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_n_unique_intergers_sum_zero)
 - [#1317. Convert Integer to the Sum of Two No-Zero Integers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers)
 - [#1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
+- [#1935. Maximum Number of Words You Can Type](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_number_of_words_you_can_type)
 - [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
 - [#2785. Sort Vowels in a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/sort_vowels_in_a_string)
 - [#3000. Maximum Area of Longest Diagonal Rectangle](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_area_of_longest_diagonal_rectangle)
