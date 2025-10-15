@@ -59,6 +59,7 @@
 - [#392. Is Subsequence](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/is_subsequence)
 - [#409. Longest Palindrome](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/longest_palindrome)
 - [#412. Fizz Buzz](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/fizz_buzz)
+- [#414. Third Maximum Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/third_maximum_number)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
 - [#1304. Find N Unique Integers Sum up to Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_n_unique_intergers_sum_zero)
 - [#1317. Convert Integer to the Sum of Two No-Zero Integers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers)
