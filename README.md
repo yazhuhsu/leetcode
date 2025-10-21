@@ -94,3 +94,4 @@
 - [#584. Find Customer Referee](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/find_customer_referee.sql)
 - [#586. Customer Placing the Largest Number of Orders](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/customer_placing_the_largest_number_of_orders.sql)
 - [#596. Classes With at Least 5 Students](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/classes_with_at_least_5_students)
+- [#607. Sales Person](https://github.com/yazhuhsu/leetcode/blob/develop/database/easy/sales_person)
