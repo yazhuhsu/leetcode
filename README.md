@@ -26,6 +26,7 @@
 - [#70. Climbing Stairs](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/climbing_stairs)
 - [#83. Remove Duplicates from Sorted List](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/remove_duplicates_from_sorted_list)
 - [#88. Merge Sorted Array](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/merge_sorted_array)
+- [#94. Binary Tree Inorder Traversal](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/binary_tree_inorder_traversal)
 - [#118. Pascal's Triangle](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/pascals_triangle)
 - [#119. Pascal's Triangle II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/pascals_triangle_II)
 - [#125. Valid Palindrome](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/valid_palindrome)
