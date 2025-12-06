@@ -80,6 +80,7 @@
 - [#551. Student Attendance Record I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/student_attendance_record_I)
 - [#557. Reverse Words in a String III](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_words_in_a_string_III)
 - [#605. Can Place Flowers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/can_place_flowers)
+- [#682. Baseball Game](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/baseball_game)
 - [#717. 1-bit and 2-bit Characters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/1_bit_and_2_bit_characters)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
 - [#1304. Find N Unique Integers Sum up to Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_n_unique_intergers_sum_zero)
