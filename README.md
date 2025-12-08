@@ -87,6 +87,7 @@
 - [#1317. Convert Integer to the Sum of Two No-Zero Integers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers)
 - [#1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
 - [#1523. Count Odd Numbers in an Interval Range](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_odd_numbers_in_an_interval_range)
+- [#1925. Count Square Sum Triples](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_square_sum_triples)
 - [#1935. Maximum Number of Words You Can Type](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_number_of_words_you_can_type)
 - [#2169. Count Operations to Obtain Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_operations_to_obtain_zero)
 - [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
