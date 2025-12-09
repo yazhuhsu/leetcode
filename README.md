@@ -100,6 +100,7 @@
 - [#3432. Count Partitions with Even Sum Difference](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_partitions_with_even_sum_difference)
 - [#3516. Find Closest Person](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_closest_person)
 - [#3541. Find Most Frequent Vowel and Consonant](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_most_frequent_vowel_and_consonant)
+- [#3583. Count Special Triplets](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_special_triplets)
 
 ## Database
 
