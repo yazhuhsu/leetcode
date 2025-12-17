@@ -34,6 +34,7 @@
 - [#119. Pascal's Triangle II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/pascals_triangle_II)
 - [#125. Valid Palindrome](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/valid_palindrome)
 - [#136. Single Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/single_number)
+- [#144. Binary Tree Preorder Traversal](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/binary_tree_preorder_traversal)
 - [#168. Excel Sheet Column Title](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/excel_sheet_column_title)
 - [#169. Majority Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/majority_element)
 - [#171. Excel Sheet Column Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/excel_sheet_column_number)
