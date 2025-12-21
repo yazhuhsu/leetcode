@@ -46,6 +46,7 @@
 - [#206. Reverse Linked List](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_linked_list)
 - [#217. Contains Duplicate](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/contains_duplicate)
 - [#219. Contains.Duplicate II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/contains_duplicate_II)
+- [#222. Count Complete Tree Nodes](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_complete_tree_nodes)
 - [#228. Summary Ranges](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/summary_ranges)
 - [#231. Power of Two](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/power_of_two)
 - [#242. Valid Anagram](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/valid_anagram)
