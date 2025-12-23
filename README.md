@@ -87,6 +87,7 @@
 - [#628. Maximum Product of Three Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_product_of_three_numbers)
 - [#682. Baseball Game](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/baseball_game)
 - [#693. Binary Number with Alternating Bits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/binary_number_with_alternating_bits)
+- [#709. To Lower Case](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/to_lower_case)
 - [#717. 1-bit and 2-bit Characters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/1_bit_and_2_bit_characters)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
 - [#944. Delete Columns to Make Sorted](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/delete_column_to_make_sorted)
