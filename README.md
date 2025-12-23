@@ -89,6 +89,7 @@
 - [#693. Binary Number with Alternating Bits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/binary_number_with_alternating_bits)
 - [#709. To Lower Case](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/to_lower_case)
 - [#717. 1-bit and 2-bit Characters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/1_bit_and_2_bit_characters)
+- [#728. Self Dividing Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/self_dividing_numbers)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
 - [#944. Delete Columns to Make Sorted](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/delete_column_to_make_sorted)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
