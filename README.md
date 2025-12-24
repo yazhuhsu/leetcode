@@ -104,6 +104,7 @@
 - [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
 - [#2785. Sort Vowels in a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/sort_vowels_in_a_string)
 - [#3000. Maximum Area of Longest Diagonal Rectangle](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_area_of_longest_diagonal_rectangle)
+- [#3074. Apple Redistribution into Boxes](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/apple_redistribution_into_boxes)
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
 - [#3195. Find the Minimum Area to Cover All Ones I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/find_the_minimum_area_to_cover_all_ones_I)
 - [#3318. Find X-Sum of All K-Long Subarrays I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_x_sum_of_all_k_long_subarray_I)
