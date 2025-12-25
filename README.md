@@ -102,6 +102,7 @@
 - [#1935. Maximum Number of Words You Can Type](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_number_of_words_you_can_type)
 - [#2169. Count Operations to Obtain Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_operations_to_obtain_zero)
 - [#2348. Number of Zero-Filled Subarrays](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/number_of_zero_filled_subarrys)
+- [#2769. Find the Maximum Achievable Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_the_maximum_achievable_number)
 - [#2785. Sort Vowels in a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/sort_vowels_in_a_string)
 - [#3000. Maximum Area of Longest Diagonal Rectangle](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_area_of_longest_diagonal_rectangle)
 - [#3074. Apple Redistribution into Boxes](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/apple_redistribution_into_boxes)
