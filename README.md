@@ -96,6 +96,7 @@
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
 - [#1304. Find N Unique Integers Sum up to Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_n_unique_intergers_sum_zero)
 - [#1317. Convert Integer to the Sum of Two No-Zero Integers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers)
+- [#1351. Count Negative Numbers in a Sorted Matrix](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_negative_numbers_in_a_sorted_matrix)
 - [#1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
 - [#1523. Count Odd Numbers in an Interval Range](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_odd_numbers_in_an_interval_range)
 - [#1925. Count Square Sum Triples](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_square_sum_triples)
