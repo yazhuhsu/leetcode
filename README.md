@@ -92,6 +92,7 @@
 - [#717. 1-bit and 2-bit Characters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/1_bit_and_2_bit_characters)
 - [#728. Self Dividing Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/self_dividing_numbers)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
+- [#961. N-Repeated Element in Size 2N Array](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/n_repeated_element_in_size_2n_array))
 - [#944. Delete Columns to Make Sorted](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/delete_column_to_make_sorted)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
 - [#1304. Find N Unique Integers Sum up to Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_n_unique_intergers_sum_zero)
