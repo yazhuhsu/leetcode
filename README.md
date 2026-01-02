@@ -86,6 +86,7 @@
 - [#557. Reverse Words in a String III](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_words_in_a_string_III)
 - [#605. Can Place Flowers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/can_place_flowers)
 - [#628. Maximum Product of Three Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_product_of_three_numbers)
+- [#645. Set Mismatch](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/set_mismatch)
 - [#682. Baseball Game](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/baseball_game)
 - [#693. Binary Number with Alternating Bits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/binary_number_with_alternating_bits)
 - [#709. To Lower Case](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/to_lower_case)
