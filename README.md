@@ -93,6 +93,7 @@
 - [#717. 1-bit and 2-bit Characters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/1_bit_and_2_bit_characters)
 - [#728. Self Dividing Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/self_dividing_numbers)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
+- [#821. Shortest Distance to a Character](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/shortest_distance_to_a_character)
 - [#917. Reverse Only Letters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_only_letters)
 - [#944. Delete Columns to Make Sorted](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/delete_column_to_make_sorted)
 - [#961. N-Repeated Element in Size 2N Array](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/n_repeated_element_in_size_2n_array)
