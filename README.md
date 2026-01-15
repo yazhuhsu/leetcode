@@ -92,6 +92,7 @@
 - [#709. To Lower Case](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/to_lower_case)
 - [#717. 1-bit and 2-bit Characters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/1_bit_and_2_bit_characters)
 - [#728. Self Dividing Numbers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/self_dividing_numbers)
+- [#744. Find Smallest Letter Greater Than Target](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_smallest_letter_greater_than_target)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
 - [#821. Shortest Distance to a Character](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/shortest_distance_to_a_character)
 - [#917. Reverse Only Letters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_only_letters)
