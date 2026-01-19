@@ -95,6 +95,7 @@
 - [#744. Find Smallest Letter Greater Than Target](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_smallest_letter_greater_than_target)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
 - [#821. Shortest Distance to a Character](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/shortest_distance_to_a_character)
+- [#824. Goat Latin](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/goat_latin)
 - [#917. Reverse Only Letters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_only_letters)
 - [#944. Delete Columns to Make Sorted](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/delete_column_to_make_sorted)
 - [#961. N-Repeated Element in Size 2N Array](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/n_repeated_element_in_size_2n_array)
