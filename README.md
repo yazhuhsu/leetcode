@@ -126,6 +126,7 @@
 - [#3516. Find Closest Person](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_closest_person)
 - [#3541. Find Most Frequent Vowel and Consonant](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_most_frequent_vowel_and_consonant)
 - [#3583. Count Special Triplets](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_special_triplets)
+- [#3637. Trionic Array I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/trionic_array_I)
 
 ## Database
 
