@@ -101,6 +101,7 @@
 - [#917. Reverse Only Letters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_only_letters)
 - [#944. Delete Columns to Make Sorted](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/delete_column_to_make_sorted)
 - [#961. N-Repeated Element in Size 2N Array](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/n_repeated_element_in_size_2n_array)
+- [#997. Find the Town Judge](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_the_town_judge)
 - [#1200. Minimum Absolute Difference](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/minimum_absolute_difference)
 - [#1277. Count Square Submatrices with All Ones](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_square_submatrices_with_all_ones)
 - [#1304. Find N Unique Integers Sum up to Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_n_unique_intergers_sum_zero)
