@@ -111,6 +111,7 @@
 - [#1317. Convert Integer to the Sum of Two No-Zero Integers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/convert_integer_to_the_sum_of_two_no_zero_integers)
 - [#1323. Maximum 69 Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_69_number)
 - [#1351. Count Negative Numbers in a Sorted Matrix](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_negative_numbers_in_a_sorted_matrix)
+- [#1360. Number of Days Between Two Dates](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/number_of_days_between_two_dates)
 - [#1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/how_many_numbers_are_smaller_than_the_current_number)
 - [#1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
 - [#1523. Count Odd Numbers in an Interval Range](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_odd_numbers_in_an_interval_range)
