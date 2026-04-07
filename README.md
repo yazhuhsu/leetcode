@@ -100,6 +100,7 @@
 - [#821. Shortest Distance to a Character](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/shortest_distance_to_a_character)
 - [#824. Goat Latin](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/goat_latin)
 - [#860. Lemonade Change](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/lemonade_change)
+- [#874. Walking Robot Simulation](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/walking_robot_simulation)
 - [#884. Uncommon Words from Two Sentences](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/uncommon_words_from_two_sentence)
 - [#917. Reverse Only Letters](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/reverse_only_letters)
 - [#922. Sort Array By Parity II](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/sort_array_by_parity_II)
