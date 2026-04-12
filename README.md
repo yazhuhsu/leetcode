@@ -136,6 +136,7 @@
 - [#3541. Find Most Frequent Vowel and Consonant](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_most_frequent_vowel_and_consonant)
 - [#3583. Count Special Triplets](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_special_triplets)
 - [#3637. Trionic Array I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/trionic_array_I)
+- [#3740. Minimum Distance Between Three Equal Elements I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/minimum_distance_between_three_equal_elements_I)
 
 ## Database
 
