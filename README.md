@@ -117,6 +117,7 @@
 - [#1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/how_many_numbers_are_smaller_than_the_current_number)
 - [#1493. Longest Subarray of 1's After Deleting One Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/longest_subarray_of_1s_after_deleting_one_element)
 - [#1523. Count Odd Numbers in an Interval Range](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_odd_numbers_in_an_interval_range)
+- [#1848. Minimum Distance to the Target Element](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/minimum_distance_to_the_target_element)
 - [#1925. Count Square Sum Triples](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_square_sum_triples)
 - [#1935. Maximum Number of Words You Can Type](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/maximum_number_of_words_you_can_type)
 - [#2169. Count Operations to Obtain Zero](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_operations_to_obtain_zero)
