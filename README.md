@@ -138,6 +138,7 @@
 - [#3583. Count Special Triplets](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/count_special_triplets)
 - [#3637. Trionic Array I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/trionic_array_I)
 - [#3740. Minimum Distance Between Three Equal Elements I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/minimum_distance_between_three_equal_elements_I)
+- [#3783. Mirror Distance of an Integer](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/mirror_distance_of_an_integer)
 
 ## Database
 
