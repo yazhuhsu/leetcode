@@ -1,16 +1,13 @@
 package main
 
-import (
-	"fmt"
-	"math"
-	"strconv"
-)
+import "fmt"
 
 func mirrorDistance(n int) int {
-	copy, mirror := n, 0
-	for i := 1; i < len(strconv.Itoa(n))+1; i++ {
-		mirror += (copy % 10) * int(math.Pow(10, float64(len(strconv.Itoa(n))-i)))
-		copy /= 10
+	// build mirror by shifting left and appending last digit of num each iteration
+	num, mirror := n, 0
+	for num > 0 {
+		mirror = mirror*10 + num%10
+		num /= 10
 	}
 
 	if mirror > n {

@@ -1,9 +1,10 @@
 class Solution:
     def mirrorDistance(self, n: int) -> int:
-        copy, mirror = n, 0
-        for i in range(1, len(str(n))+1):
-            mirror += int(copy % 10) * int(10**(len(str(n))-i))
-            copy = int(copy / 10)            
+        # build mirror by shifting left and appending last digit of num each iteration
+        num, mirror = n, 0
+        while num > 0:
+            mirror = mirror * 10 + num % 10
+            num //= 10
 
         if mirror > n:
             return mirror - n

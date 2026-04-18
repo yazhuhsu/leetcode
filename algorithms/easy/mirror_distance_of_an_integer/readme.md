@@ -31,6 +31,20 @@ i=4: copy%10=1, place at 10^0=1     →  mirror += 1     →  mirror=4321, copy=
 mirror=4321 > n=1234  →  return 4321-1234 = 3087
 ```
 
+### Improvements
+- Renamed `copy` → `num` to avoid shadowing the built-in `copy` (Go) / `copy` module (Python)
+- Replaced `math.Pow` + `strconv.Itoa` with a single loop using `mirror = mirror*10 + num%10` — no float arithmetic, no precomputed digit count needed
+- Replaced float division `/` with integer division `//` in Python
+
+    ```go
+    // single loop: shift mirror left and append last digit of num
+    num, mirror := n, 0
+    for num > 0 {
+        mirror = mirror*10 + num%10
+        num /= 10
+    }
+    ```
+
 ### Result
 - Output: `3087`
 - Examples:
