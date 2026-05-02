@@ -96,6 +96,7 @@
 - [#744. Find Smallest Letter Greater Than Target](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_smallest_letter_greater_than_target)
 - [#747. Largest Number At Least Twice of Others](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/largest_number_at_least_twice_of_others)
 - [#762. Prime Number of Set Bits in Binary Representation](ttps://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/prime_number_of_set_bits_in_binary_representation)
+- [#788. Rotated Digits](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/rotated_digits)
 - [#819. Most Common Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/most_common_word)
 - [#821. Shortest Distance to a Character](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/shortest_distance_to_a_character)
 - [#824. Goat Latin](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/goat_latin)
