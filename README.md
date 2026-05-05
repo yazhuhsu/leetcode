@@ -20,6 +20,7 @@
 - [#29. Divide Two Integers](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/divide_two_integers)
 - [#35. Search Insert Position](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/search_insert_position)
 - [#56. Length of Last Word](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/length_of_last_word)
+- [#61. Rotate List](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/rotate_list)
 - [#66. Plus One](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/plus_one)
 - [#67. Add Binary](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/add_binary)
 - [#69. Sqrt(x)](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/sqrt_x)
