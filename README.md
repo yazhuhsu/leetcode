@@ -132,6 +132,7 @@
 - [#3074. Apple Redistribution into Boxes](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/apple_redistribution_into_boxes)
 - [#3075. Maximize Happiness of Selected Children](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/maximize_happiness_of_selected_children)
 - [#3110. Score of a String](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/score_of_a_string)
+- [#3120. Count the Number of Special Characters I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/count_the_number_of_special_characters_I)
 - [#3195. Find the Minimum Area to Cover All Ones I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/find_the_minimum_area_to_cover_all_ones_I)
 - [#3314. Construct the Minimum Bitwise Array I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/medium/construct_the_minimum_bitwise_array_I)
 - [#3318. Find X-Sum of All K-Long Subarrays I](https://github.com/yazhuhsu/leetcode/tree/develop/algorithms/easy/find_x_sum_of_all_k_long_subarray_I)
